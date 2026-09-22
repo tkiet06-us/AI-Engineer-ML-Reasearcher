@@ -1,0 +1,4 @@
+Python
+Machine Learning
+Deep Learning
+Pattern Recogition
